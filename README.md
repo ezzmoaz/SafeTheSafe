@@ -1,5 +1,7 @@
-# SafeTheSafe
 
+
+# SafeTheSafe
+![Screenshot](ScreenShots/Icon.png).
 
 Safe The Safe is a game in which you play as a thief or a cop. You search in the city for a lost Safe. You also can play it with your friend. One will be the thief and the other is the cop. Both trying to find the safe first. Who ever get it first will win. So enjoy the game and Safe the Safe.
 
@@ -19,9 +21,15 @@ Get it On the [App Store](https://itunes.apple.com/us/app/safe-the-safe/id142805
 
 
 
-# ScreenShots
+# ScreenShots.
 
-![Screenshot](screenshot.png)
+![Screenshot](ScreenShots/1.PNG).
+![Screenshot](ScreenShots/2.png)
+![Screenshot](ScreenShots/3.PNG)
+![Screenshot](ScreenShots/4.png)
+![Screenshot](ScreenShots/5.PNG)
+![Screenshot](ScreenShots/6.png)
+![Screenshot](ScreenShots/7.PNG)
 
 
 
