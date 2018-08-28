@@ -29,7 +29,7 @@ Get it On the [App Store](https://itunes.apple.com/us/app/safe-the-safe/id142805
 ![Screenshot](ScreenShots/4.png)
 ![Screenshot](ScreenShots/5.PNG)
 ![Screenshot](ScreenShots/6.png)
-![Screenshot](ScreenShots/7.PNG)
+![Screenshot](ScreenShots/7.png)
 
 
 
